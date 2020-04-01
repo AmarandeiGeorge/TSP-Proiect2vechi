@@ -1,0 +1,16 @@
+C:\Users\Gorgo\source\repos\Photos\HostWCF\bin\Debug\HostWCF.exe.config
+C:\Users\Gorgo\source\repos\Photos\HostWCF\bin\Debug\HostWCF.exe
+C:\Users\Gorgo\source\repos\Photos\HostWCF\bin\Debug\HostWCF.pdb
+C:\Users\Gorgo\source\repos\Photos\HostWCF\bin\Debug\EntityFramework.dll
+C:\Users\Gorgo\source\repos\Photos\HostWCF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gorgo\source\repos\Photos\HostWCF\bin\Debug\ObjectWCF.dll
+C:\Users\Gorgo\source\repos\Photos\HostWCF\bin\Debug\Ef_design_first.dll
+C:\Users\Gorgo\source\repos\Photos\HostWCF\bin\Debug\ObjectWCF.pdb
+C:\Users\Gorgo\source\repos\Photos\HostWCF\bin\Debug\EntityFramework.xml
+C:\Users\Gorgo\source\repos\Photos\HostWCF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gorgo\source\repos\Photos\HostWCF\bin\Debug\Ef_design_first.pdb
+C:\Users\Gorgo\source\repos\Photos\HostWCF\bin\Debug\Ef_design_first.dll.config
+C:\Users\Gorgo\source\repos\Photos\HostWCF\obj\Debug\HostWCF.csprojAssemblyReference.cache
+C:\Users\Gorgo\source\repos\Photos\HostWCF\obj\Debug\HostWCF.csproj.CopyComplete
+C:\Users\Gorgo\source\repos\Photos\HostWCF\obj\Debug\HostWCF.exe
+C:\Users\Gorgo\source\repos\Photos\HostWCF\obj\Debug\HostWCF.pdb

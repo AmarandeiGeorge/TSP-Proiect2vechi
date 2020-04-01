@@ -1,0 +1,17 @@
+C:\Users\Gorgo\source\repos\Photos\WinFormGUI\bin\Debug\WinFormGUI.exe.config
+C:\Users\Gorgo\source\repos\Photos\WinFormGUI\bin\Debug\WinFormGUI.exe
+C:\Users\Gorgo\source\repos\Photos\WinFormGUI\bin\Debug\WinFormGUI.pdb
+C:\Users\Gorgo\source\repos\Photos\WinFormGUI\obj\Debug\WinFormGUI.csprojAssemblyReference.cache
+C:\Users\Gorgo\source\repos\Photos\WinFormGUI\obj\Debug\WinFormGUI.PhotoView.resources
+C:\Users\Gorgo\source\repos\Photos\WinFormGUI\obj\Debug\WinFormGUI.Properties.Resources.resources
+C:\Users\Gorgo\source\repos\Photos\WinFormGUI\obj\Debug\WinFormGUI.csproj.GenerateResource.cache
+C:\Users\Gorgo\source\repos\Photos\WinFormGUI\obj\Debug\WinFormGUI.exe
+C:\Users\Gorgo\source\repos\Photos\WinFormGUI\obj\Debug\WinFormGUI.pdb
+C:\Users\Gorgo\source\repos\Photos\WinFormGUI\bin\Debug\Ef_design_first.dll
+C:\Users\Gorgo\source\repos\Photos\WinFormGUI\bin\Debug\EntityFramework.dll
+C:\Users\Gorgo\source\repos\Photos\WinFormGUI\bin\Debug\Ef_design_first.pdb
+C:\Users\Gorgo\source\repos\Photos\WinFormGUI\bin\Debug\Ef_design_first.dll.config
+C:\Users\Gorgo\source\repos\Photos\WinFormGUI\bin\Debug\EntityFramework.xml
+C:\Users\Gorgo\source\repos\Photos\WinFormGUI\obj\Debug\WinFormGUI.csproj.CopyComplete
+C:\Users\Gorgo\source\repos\Photos\WinFormGUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gorgo\source\repos\Photos\WinFormGUI\bin\Debug\EntityFramework.SqlServer.xml

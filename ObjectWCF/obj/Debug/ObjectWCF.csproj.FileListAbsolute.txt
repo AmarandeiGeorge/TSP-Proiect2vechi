@@ -1,0 +1,11 @@
+C:\Users\Gorgo\source\repos\Photos\ObjectWCF\bin\Debug\ObjectWCF.dll
+C:\Users\Gorgo\source\repos\Photos\ObjectWCF\bin\Debug\ObjectWCF.pdb
+C:\Users\Gorgo\source\repos\Photos\ObjectWCF\bin\Debug\Ef_design_first.dll
+C:\Users\Gorgo\source\repos\Photos\ObjectWCF\bin\Debug\EntityFramework.dll
+C:\Users\Gorgo\source\repos\Photos\ObjectWCF\bin\Debug\Ef_design_first.pdb
+C:\Users\Gorgo\source\repos\Photos\ObjectWCF\bin\Debug\Ef_design_first.dll.config
+C:\Users\Gorgo\source\repos\Photos\ObjectWCF\bin\Debug\EntityFramework.xml
+C:\Users\Gorgo\source\repos\Photos\ObjectWCF\obj\Debug\ObjectWCF.csprojAssemblyReference.cache
+C:\Users\Gorgo\source\repos\Photos\ObjectWCF\obj\Debug\ObjectWCF.csproj.CopyComplete
+C:\Users\Gorgo\source\repos\Photos\ObjectWCF\obj\Debug\ObjectWCF.dll
+C:\Users\Gorgo\source\repos\Photos\ObjectWCF\obj\Debug\ObjectWCF.pdb
